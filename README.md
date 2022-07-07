@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+## I'm Jewel Osafile
+🔭 I’m currently working on an open-source community with my buddies <a href="https://github.com/hubswitch-africa">@hubswitch</a> <br/>
+🌱 I mostly hangout with Laravel|React-Native|Nodejs </br>
+ How to reach me:  https://jewelsama.github.io/</br>
+
+
+
+
+
+<br />
+   
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=JewelSama&theme=radical"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=JewelSama&column=4&margin-w=7&margin-h=7&theme=radical"/>
+
+
+
+
+
 <!--
 **JewelSama/JewelSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
