@@ -2,7 +2,7 @@
 
 ## I'm Jewel Osafile
 🔭 I’m currently working on an open-source community with my buddies <a href="https://github.com/hubswitch-africa">@hubswitch</a> <br/>
-🌱 I mostly hangout with Laravel|Nodejs|React-Native </br>
+🌱 I mostly hangout with PHP|Laravel|Nodejs|React-Native </br>
  How to reach me:  https://jewelsama.github.io/</br>
 
 
