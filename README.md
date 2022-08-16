@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## I'm Jewel Osafile
-🔭 I’m currently working on an open-source community with my buddies <a href="https://github.com/hubswitch-africa">@hubswitch</a> <br/>
+🔭 ReactNative Mentor <a href="https://github.com/hubswitch-africa">@hubswitch</a> <br/>
+🌱 I’m currently learning PHP
 🌱 I mostly hangout with PHP|Laravel|Nodejs|React-Native </br>
  How to reach me:  https://jewelsama.github.io/</br>
 
@@ -25,7 +26,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
