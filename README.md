@@ -15,11 +15,14 @@
 <br />
    
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JewelSama&theme=radical"/>
- <img src="https://github-profile-trophy.vercel.app/?username=JewelSama&column=4&margin-w=7&margin-h=7&theme=radical"/>
+ <table>
+  <tr>
+ <td valign="top"><img src="https://github-profile-trophy.vercel.app/?username=JewelSama&column=4&margin-w=7&margin-h=7&theme=radical"/></td>
 
 
-<a href="https://github.com/jewelSama" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewelSama&langs_count=10&theme=radical&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<td valign="top"><a href="https://github.com/jewelSama" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewelSama&langs_count=10&theme=radical&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td>
+</tr>
+</table>
 
 <!--
 **JewelSama/JewelSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
