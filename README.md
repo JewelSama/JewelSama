@@ -4,7 +4,7 @@
 🔭 ReactNative Mentor <a href="https://github.com/hubswitch-africa">@hubswitch</a> <br/>
 💬 Ask me about JavaScript <br />
 🌱 I’m currently learning PHP <br />
-🌱 I mostly hangout with PHP|Laravel|Nodejs|React-Native </br>
+🌱 I mostly hangout with PHP|Laravel|Nodejs|React && React-Native </br>
  How to reach me:  ~~</br>
 
 
