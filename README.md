@@ -5,7 +5,7 @@
 💬 Ask me about JavaScript <br />
 🌱 I’m currently learning PHP <br />
 🌱 I mostly hangout with PHP|Laravel|Nodejs|React-Native </br>
- How to reach me:  https://jewelsama.github.io/</br>
+ How to reach me:  ~~</br>
 
 
 
