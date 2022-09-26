@@ -5,7 +5,9 @@
 💬 Ask me about JavaScript <br />
 🌱 I’m currently learning PHP <br />
 🌱 I mostly hangout with PHP|Laravel|Nodejs|React && React-Native </br>
- How to reach me:  ~~</br>
+⚡ Fun fact: Tailwindcss >>>> 😁
+ How to reach me:  <a href="mailto:osafilejewel@gmail.com?">osafilejewel@gmail.com</a></br>
+ 
 
 
 
