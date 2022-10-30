@@ -2,6 +2,7 @@
 
 ## I'm Jewel Osafile
 🔭 ReactNative Mentor <a href="https://github.com/hubswitch-africa">@hubswitch</a> <br/>
+⚡ CS Student <br />
 💬 Ask me about JavaScript <br />
 🌱 I’m currently learning PHP <br />
 🌱 I mostly hangout with PHP|Laravel|Nodejs|React && React-Native </br>
