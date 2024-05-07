@@ -3,6 +3,7 @@
 ## I'm Jewel Osafile
 🔭 ReactNative Mentor <a href="https://github.com/hubswitch-africa">@hubswitch</a> <br/>
 ⚡ CS Student <br />
+📚 Learning GO <br />
 💬 Ask me about JavaScript <br />
 🌱 I mostly hangout with PHP|Laravel|Nodejs|React && React-Native </br>
 ⚡ Fun fact: Manchester is blue <br />
