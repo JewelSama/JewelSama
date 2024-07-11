@@ -3,7 +3,7 @@
 ## I'm Jewel Osafile
 🔭 ReactNative Mentor <a href="https://github.com/hubswitch-africa">@hubswitch</a> <br/>
 ⚡ CS Student <br />
-📚 Learning GO <br />
+📚 Learning GO && C# <br />
 💬 Ask me about JavaScript <br />
 🌱 I mostly hangout with PHP|Laravel|Nodejs|React && React-Native </br>
 ⚡ Fun fact: Manchester is blue <br />
@@ -11,10 +11,10 @@
  
  <!-- ### STACK
 
-1. Experience using modern MVC framework (React Js, React Native, Next Js, Laravel\)
+1. Experience using modern MVC frameworks (React Js, React Native, Next Js, Laravel\)
 2. Experience using modern languages (Typescript, Javascript, Node Js, HTML, Tailwind, CSS, BootStrap)
 3. Experience working with Git, GitUI, GitBash
-4. Experience working with Relational Databases such as MySQL, PostgreSQL and Google Firestore
+4. Experience working with Relational Databases such as MySQL, PostgreSQL, and Google Firestore
 5. Experience working with data stores like Sanity.io 
 6. Backend Stacks: MERN Stack(MongoDB,  React, NodeJs), PHP Stack (Laravel, MyPHPAdmin).
 
