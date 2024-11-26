@@ -5,7 +5,7 @@
 ⚡ CS Grad👨🏾‍🎓🎓 <br />
 📚 Learning GO && C# <br />
 💬 Ask me about JavaScript <br />
-🌱 I mostly hangout with PHP|Laravel|Nodejs|React && React-Native </br>
+🌱 I mostly hangout with PHP|Laravel|Nodejs|React|Nextjs && React-Native </br>
 ⚡ Fun fact: Manchester is blue <br />
  How to reach me:  <a href="mailto:osafilejewel@gmail.com?">osafilejewel@gmail.com</a></br>
  
